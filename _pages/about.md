@@ -15,6 +15,7 @@ I am conducting exciting research projects such as foundation model for knee MR 
 
 I am fortunate to be working at [Index Engines](https://indexengines.com/) this summer as a Machine Learning Engineer, focusing on ML applications for ransomware detection. Through this experience, I’ve gained valuable skills in agile development and project management while contributing in a highly collaborative environment.
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HF3dSa2Phdp70LSHdJoYuxLo5rPnYPz8e3TjScZHUbA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <!-- Education
 ======
 * Ph.D in Computer Science, Case Western Reserve University, 2028 (expected)

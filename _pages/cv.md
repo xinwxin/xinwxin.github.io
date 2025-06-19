@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## View or Download My Full CV
+
+<embed src="{{ 'files/CV_Wang,Xinxin.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
+
+[Click here to download the PDF]( {{ 'files/CV_Wang,Xinxin.pdf' | relative_url }} )
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

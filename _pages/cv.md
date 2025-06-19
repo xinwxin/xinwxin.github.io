@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "View or Download My Full CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## View or Download My Full CV
 
 <embed src="{{ 'files/CV_Wang,X.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 
-[Click here to download the PDF]( {{ 'files/CV_Wang,X.pdf' | relative_url }} )
+<!-- [Click here to download the PDF]( {{ 'files/CV_Wang,X.pdf' | relative_url }} ) -->
 
 <!-- Education
 ======

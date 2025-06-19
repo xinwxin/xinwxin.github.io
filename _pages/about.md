@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my site :smiley:
 
-I am currently a CS PhD student at CWRU and a research assistant at Cleveland Clinic, where I am privilaged to work with [Prof. Xiaojuan Li](https://www.lerner.ccf.org/biomedical-engineering/li/) and [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li). I obtained my bachelor's degree in Intelligence Science and Technology at Sun Yat-sen University in 2023.
+I am currently a CS PhD student at *CWRU* and a research assistant at *Cleveland Clinic*, where I am privilaged to work with [Prof. Xiaojuan Li](https://www.lerner.ccf.org/biomedical-engineering/li/) and [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li). I obtained my bachelor's degree in Intelligence Science and Technology at *Sun Yat-sen University* in 2023.
 
 I am conducting exciting research projects such as foundation model for knee MR and reliable lesion segmentation. Please feel free to reach out through {first name}.{last name}@case.edu if you are interested in a discussion or collaboration!
 

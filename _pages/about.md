@@ -11,7 +11,7 @@ Welcome to my site :smiley:
 
 I am currently a CS PhD student at **CWRU** and a research assistant at **Cleveland Clinic**, where I am privilaged to work with [Prof. Xiaojuan Li](https://www.lerner.ccf.org/biomedical-engineering/li/) and [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li). Before my PhD journey, I obtained my bachelor's degree in Intelligence Science and Technology at **Sun Yat-sen University** in 2023.
 
-I am conducting exciting research projects such as **Foundation Model for Knee MR** and **Reliable Lesion Segmentation**. Please feel free to reach out through {first name}.{last name}@case.edu if you are interested in a discussion or collaboration!
+I am conducting exciting research projects such as **Foundation Model for Knee MR** and **Reliable Lesion Segmentation**. Please feel free to reach out through {first name}.{last name}@case.edu if you are interested in a discussion or collaboration.
 
 I am fortunate to be working at [Index Engines](https://indexengines.com/) this summer as a Machine Learning Engineer, focusing on ML applications for ransomware detection. Through this experience, I’ve gained valuable skills in **agile development** and **project management** while contributing in a highly collaborative environment.
 

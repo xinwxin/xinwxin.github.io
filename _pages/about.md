@@ -9,11 +9,22 @@ redirect_from:
 
 Welcome to my site :smiley:
 
-I am currently a CS PhD student at CWRU and a research assistant at Cleveland Clinic, where I am privilaged to work with [Prof. Xiaojuan Li](https://www.lerner.ccf.org/biomedical-engineering/li/) and [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li).
+I am currently a CS PhD student at CWRU and a research assistant at Cleveland Clinic, where I am privilaged to work with [Prof. Xiaojuan Li](https://www.lerner.ccf.org/biomedical-engineering/li/) and [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li). I obtained my bachelor's degree in Intelligence Science and Technology at Sun Yat-sen University in 2023.
 
-I am conducting exciting research projects such as foundation model for knee MR and reliable lesion segmentation. Please feel free to reach out if you are interested in a discussion or collaboration through {first name}.{last name}@case.edu.
+I am conducting exciting research projects such as foundation model for knee MR and reliable lesion segmentation. Please feel free to reach out through {first name}.{last name}@case.edu if you are interested in a discussion or collaboration!
 
 I am fortunate to be working at [Index Engines](https://indexengines.com/) this summer as a Machine Learning Engineer, focusing on ML applications for ransomware detection. Through this experience, I’ve gained valuable skills in agile development and project management while contributing in a highly collaborative environment.
+
+<!-- Education
+======
+* Ph.D in Computer Science, Case Western Reserve University, 2028 (expected)
+* B.S. in Intelligent Science and Technology, Sun Yat-sen University, 2023
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 

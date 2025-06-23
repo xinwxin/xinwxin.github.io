@@ -12,7 +12,7 @@ redirect_from:
 
 <embed src="{{ 'files/CV_Wang,X.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 
-<!-- [Click here to download the PDF]( {{ 'files/CV_Wang,X.pdf' | relative_url }} ) -->
+[Click here to download the PDF]( {{ 'files/CV_Wang,X.pdf' | relative_url }} )
 
 <!-- Education
 ======
